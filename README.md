@@ -11,6 +11,7 @@ Evitând duplicarea și utilizarea aceluiași cod de mai multe ori, codul va dev
 Dintre desavantajele menținem că orice fel de modificări la nivel inferior sau superior ar putea intra în conflict cu implementarea. Un alt problem poate fii că unii clienți pot fi limitați de scheletul furnizat al unui algoritm. Dar și metodele template tind să fie mai greu de întreținut cu cât au mai multe etape, dar aceste dezavantaje sunt neglijabile în comparație cu avantajele.
 
 Resursele folosite:
+
 https://www.geeksforgeeks.org/template-method-design-pattern/
 
 https://sourcemaking.com/design_patterns/template_method
